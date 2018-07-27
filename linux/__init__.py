@@ -1,3 +1,3 @@
 import sys, os
 
-os.system("python ./parse")
+os.system("python ./parse.py")
